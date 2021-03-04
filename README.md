@@ -5,5 +5,5 @@ I decided to make this program because I realized how easy it would be to automa
 
 Dependencies: curl, youtube-dl, ffmpeg, jq, python3, requests and json pip packages.
 
-To start: enter your Spotify API key, YouTube API key, music destination folder path and Python script folder path where specified in program.
+To start: enter your Spotify API key, YouTube API key, music destination folder path and Python script folder path where specified in program. Run slowed_reverb_music_generator.sh with your desired album search query as the first argument.
 
